@@ -1,14 +1,14 @@
 
-# dec_z #101
+# dec_z #102
                 
 ```JSON
 {
-    "id": 101,
-    "key": "gKfOkOzLs$8hToDvRrJtxY*9hCtpOgIev@2fWhbW",
+    "id": 102,
+    "key": "uVqSwLtTkT_2wJqCzVqOqZwV_1kThToHxEzSyW&2",
     "author": "fwRelik",
     "owner": "undefined",
     "lisance_key": null,
-    "date": "2023-2-06 12:31"
+    "date": "2023-2-07 21:12"
 }
 ```
     
